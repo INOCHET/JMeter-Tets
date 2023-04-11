@@ -1,0 +1,60 @@
+{"activity":"Have a photo session with some friends","type":"social","participants":4,"price":0.05,"link":"","key":"3305912","accessibility":0.8}
+{"activity":"Volunteer and help out at a senior center","type":"charity","participants":1,"price":0,"link":"","key":"3920096","accessibility":0.1}
+{"activity":"Paint the first thing you see","type":"recreational","participants":1,"price":0.25,"link":"","key":"1162360","accessibility":0.2}
+{"activity":"Binge watch a trending series","type":"recreational","participants":1,"price":0.2,"link":"","key":"5881647","accessibility":0.2}
+{"activity":"Bake something you've never tried before","type":"cooking","participants":1,"price":0.4,"link":"","key":"5665663","accessibility":0.3}
+{"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
+{"activity":"Do something you used to do as a kid","type":"relaxation","participants":1,"price":0.1,"link":"","key":"8827573","accessibility":0.8}
+{"activity":"Go to a local thrift shop","type":"recreational","participants":1,"price":0.1,"link":"","key":"8503795","accessibility":0.2}
+{"activity":"Listen to music you haven't heard in a while","type":"music","participants":1,"price":0.05,"link":"","key":"4296813","accessibility":0.9}
+{"activity":"Learn a new recipe","type":"cooking","participants":1,"price":0,"link":"","key":"6553978","accessibility":0.05}
+{"activity":"Make your own LEGO creation","type":"recreational","participants":1,"price":0,"link":"","key":"1129748","accessibility":0.1}
+{"activity":"Create and follow a savings plan","type":"busywork","participants":1,"price":0,"link":"","key":"9366464","accessibility":0.2}
+{"activity":"Learn a new programming language","type":"education","participants":1,"price":0.1,"link":"","key":"5881028","accessibility":0.25}
+{"activity":"Learn origami","type":"education","participants":1,"price":0.2,"link":"","key":"8394738","accessibility":0.3}
+{"activity":"Learn how the internet works","type":"education","participants":1,"price":0,"link":"","key":"9414706","accessibility":0.1}
+{"activity":"Draw and color a Mandala","type":"relaxation","participants":1,"price":0.05,"link":"https://en.wikipedia.org/wiki/Mandala","key":"4614092","accessibility":0.1}
+{"activity":"Go to the library and find an interesting book","type":"relaxation","participants":1,"price":0.05,"link":"","key":"8253550","accessibility":0.2}
+{"activity":"Do something you used to do as a kid","type":"relaxation","participants":1,"price":0.1,"link":"","key":"8827573","accessibility":0.8}
+{"activity":"Compliment someone","type":"social","participants":2,"price":0,"link":"","key":"9149470","accessibility":0}
+{"activity":"Contribute code or a monetary donation to an open-source software project","type":"charity","participants":1,"price":0.1,"link":"https://github.com/explore","key":"7687030","accessibility":0}
+{"activity":"Go on a long drive with no music","type":"relaxation","participants":1,"price":0.1,"link":"","key":"4290333","accessibility":0.2}
+{"activity":"Volunteer at your local food bank","type":"charity","participants":1,"price":0,"link":"","key":"2055368","accessibility":0.1}
+{"activity":"Write a short story","type":"recreational","participants":1,"price":0,"link":"","key":"6301585","accessibility":0.1}
+{"activity":"Make a couch fort","type":"recreational","participants":1,"price":0,"link":"","key":"2352669","accessibility":0.08}
+{"activity":"Study a foreign language","type":"education","participants":1,"price":0,"link":"","key":"9765530","accessibility":0.1}
+{"activity":"Make a bucket list","type":"busywork","participants":1,"price":0,"link":"","key":"2735499","accessibility":0}
+{"activity":"Listen to a new music genre","type":"music","participants":1,"price":0,"link":"","key":"4708863","accessibility":0}
+{"activity":"Make a couch fort","type":"recreational","participants":1,"price":0,"link":"","key":"2352669","accessibility":0.08}
+{"activity":"Pick up litter around your favorite park","type":"charity","participants":1,"price":0,"link":"","key":"4894697","accessibility":0.05}
+{"activity":"Bake something you've never tried before","type":"cooking","participants":1,"price":0.4,"link":"","key":"5665663","accessibility":0.3}
+{"activity":"Have a bonfire with your close friends","type":"social","participants":4,"price":0.1,"link":"","key":"8442249","accessibility":0.1}
+{"activity":"Listen to a new podcast","type":"relaxation","participants":1,"price":0.05,"link":"","key":"4124860","accessibility":0.12}
+{"activity":"Volunteer at your local food pantry","type":"charity","participants":1,"price":0,"link":"","key":"1878070","accessibility":0.1}
+{"activity":"Go on a long drive with no music","type":"relaxation","participants":1,"price":0.1,"link":"","key":"4290333","accessibility":0.2}
+{"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+{"activity":"Organize a cluttered drawer","type":"busywork","participants":1,"price":0,"link":"","key":"9714586","accessibility":0}
+{"activity":"Learn a new programming language","type":"education","participants":1,"price":0.1,"link":"","key":"5881028","accessibility":0.25}
+{"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
+{"activity":"Look at pictures and videos of cute animals","type":"relaxation","participants":1,"price":0,"link":"","key":"2565076","accessibility":1}
+{"activity":"Go to the library and find an interesting book","type":"relaxation","participants":1,"price":0.05,"link":"","key":"8253550","accessibility":0.2}
+{"activity":"Have a picnic with some friends","type":"social","participants":3,"price":0.1,"link":"","key":"6813070","accessibility":0.1}
+{"activity":"Find a charity and donate to it","type":"charity","participants":1,"price":0.4,"link":"","key":"1488053","accessibility":0.1}
+{"activity":"Play basketball with a group of friends","type":"social","participants":5,"price":0,"link":"","key":"8683473","accessibility":0.7}
+{"activity":"Mow your lawn","type":"busywork","participants":1,"price":0.1,"link":"","key":"3590127","accessibility":0.3}
+{"activity":"Learn about a distributed version control system such as Git","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Distributed_version_control","key":"9303608","accessibility":0}
+{"activity":"Hold a video game tournament with some friends","type":"social","participants":4,"price":0,"link":"","key":"2300257","accessibility":0.1}
+{"activity":"Learn a new recipe","type":"cooking","participants":1,"price":0,"link":"","key":"6553978","accessibility":0.05}
+{"activity":"Make a budget","type":"busywork","participants":1,"price":0,"link":"","key":"4379552","accessibility":0.1}
+{"activity":"Memorize the fifty states and their capitals","type":"education","participants":1,"price":0,"link":"","key":"4179309","accessibility":0}
+{"activity":"Paint the first thing you see","type":"recreational","participants":1,"price":0.25,"link":"","key":"1162360","accessibility":0.2}
+{"activity":"Go to an escape room","type":"social","participants":4,"price":0.5,"link":"","key":"5585829","accessibility":0.3}
+{"activity":"Patronize a local independent restaurant","type":"recreational","participants":1,"price":0.2,"link":"","key":"5319204","accessibility":0.1}
+{"activity":"Play a volleyball match with some friends","type":"social","participants":4,"price":0,"link":"","key":"4306710","accessibility":0.3}
+{"activity":"Learn how the internet works","type":"education","participants":1,"price":0,"link":"","key":"9414706","accessibility":0.1}
+{"activity":"Have a paper airplane contest with some friends","type":"social","participants":4,"price":0.02,"link":"","key":"8557562","accessibility":0.05}
+{"activity":"Take a class at your local community center that interests you","type":"education","participants":1,"price":0,"link":"","key":"8750692","accessibility":0.15}
+{"activity":"Create a meal plan for the coming week","type":"cooking","participants":1,"price":0,"link":"","key":"3491470","accessibility":0}
+{"activity":"Start a band","type":"music","participants":4,"price":0.3,"link":"","key":"5675880","accessibility":0.8}
+{"activity":"Learn how to play a new sport","type":"recreational","participants":1,"price":0.1,"link":"","key":"5808228","accessibility":0.2}
+{"activity":"Do something you used to do as a kid","type":"relaxation","participants":1,"price":0.1,"link":"","key":"8827573","accessibility":0.8}
